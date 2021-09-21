@@ -1,3 +1,3 @@
 # Instagram_Credibility_Check
 
-refer to documentation and flowchar
+refer to documentation and flowchart
